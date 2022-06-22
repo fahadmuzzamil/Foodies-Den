@@ -1,0 +1,3 @@
+# Foodie-Project
+Hi, I've made this website with HTML/CSS/JavaScript and with love as well ;). It is super responsive to approximately all screen sizes.
+Go and check that out........
